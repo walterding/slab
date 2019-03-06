@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.jboss.netty:netty:3.2.10.Final" type="repository">
+    <properties maven-id="org.jboss.netty:netty:3.2.10.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.10.Final/netty-3.2.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.10.Final/netty-3.2.10.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
