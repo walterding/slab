@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/com/front/resin/slab/LinkedSlabPage.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/com/front/resin/slab/MemCache.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/com/front/resin/slab/Slab.java" charset="GB2312" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
